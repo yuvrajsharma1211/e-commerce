@@ -1,0 +1,4 @@
+4.0K	/var/orders/pending
+8.0K	/var/orders/completed
+12K	/var/orders/logs
+32K	/var/orders

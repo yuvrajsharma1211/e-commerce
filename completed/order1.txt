@@ -1,0 +1,11 @@
+OrderID: 101  Customer: Vedika Kumar   Product: Laptop      Quantity: 1  Price: 55000  Date: 2025-11-01
+OrderID: 102  Customer: Ayaan Garg     Product: Mouse       Quantity: 2  Price: 800    Date: 2025-11-01
+OrderID: 103  Customer: Riya Sahani    Product: Keyboard    Quantity: 1  Price: 1200   Date: 2025-11-02
+OrderID: 104  Customer: Kabir Mehta    Product: Headphones  Quantity: 1  Price: 2500   Date: 2025-11-02
+OrderID: 105  Customer: Aarav Patel    Product: Laptop      Quantity: 1  Price: 54000  Date: 2025-11-03
+OrderID: 106  Customer: Sneha Gupta    Product: Monitor     Quantity: 1  Price: 11000  Date: 2025-11-03
+OrderID: 107  Customer: Rohan Das      Product: Mouse       Quantity: 3  Price: 1200   Date: 2025-11-04
+OrderID: 108  Customer: Anjali Nair    Product: Keyboard    Quantity: 2  Price: 2400   Date: 2025-11-04
+OrderID: 109  Customer: Vikram Singh   Product: Laptop      Quantity: 1  Price: 60000  Date: 2025-11-05
+OrderID: 110  Customer: Meena Joshi    Product: Webcam      Quantity: 1  Price: 1800   Date: 2025-11-05
+
